@@ -7,7 +7,6 @@
 ## 🌱 **What I'm Currently Working On:**
 
 * 🚀 Multimodal Fake News + Deepfake Detection Project.
-* 💡 Preparing for upcoming placements with a strong focus on DSA.
 * 🎯 Exploring advanced AI/ML techniques for innovative projects.
 
 ## 💡 **Tech Stack:**
