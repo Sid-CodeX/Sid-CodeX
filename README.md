@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Sidharth!
 
-<!--
-**sidharthp-2004/sidharthp-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | CS Undergrad | MERN Stack | AI/ML | Data Science**
 
-Here are some ideas to get you started:
+🌐 I'm passionate about building intelligent, scalable, and impactful software solutions. I love leveraging technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 **What I'm Currently Working On:**
+
+* 🚀 Multimodal Fake News + Deepfake Detection Project.
+* 💡 Preparing for upcoming placements with a strong focus on DSA.
+* 🎯 Exploring advanced AI/ML techniques for innovative projects.
+
+## 💡 **Tech Stack:**
+
+* 🌐 Web Development: MERN Stack (MongoDB, Express, React, Node.js), TypeScript.
+* ⚡ Data Science & ML: Python, Scikit-Learn, TensorFlow, OpenCV.
+* 📊 Data Analysis: Pandas, NumPy, Jupyter Notebooks.
+* 💻 Other Tools: Git, GitHub, REST APIs, Linux.
+
+## 📌 **Highlighted Projects:**
+
+* ✍️ [VeriWrite - Handwriting Plagiarism Detection Tool](https://github.com/sidharthp-2004/VeriWrite)
+* 🌐 [MitsMarketPlace Backend](https://github.com/sidharthp-2004/MitsMarketPlace_backend)
+* 🤖 [AI Human Pose Estimation](https://github.com/sidharthp-2004/aicteinternship_humanpose_estimation)
+
+## ⚡ **My GitHub Stats:**
+
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharthp-2004\&show_icons=true\&theme=radical)
+
+## 💬 **Let's Connect:**
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sidharth-p-7b0097257/)
+
