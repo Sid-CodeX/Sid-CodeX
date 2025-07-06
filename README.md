@@ -2,31 +2,54 @@
 
 🚀 **Aspiring Software Developer | CS Undergrad | MERN Stack | AI/ML | Data Science**
 
-🌐 I'm passionate about building intelligent, scalable, and impactful software solutions. I love leveraging technology to solve real-world problems.
+🎯 I'm passionate about building intelligent, scalable, and impactful tech products that solve real-world problems. Whether it's web apps, AI-powered tools, or automation systems — I love transforming ideas into working solutions.
 
-## 🌱 **What I'm Currently Working On:**
+---
 
-* 🚀 Multimodal Fake News + Deepfake Detection Project.
-* 🎯 Exploring advanced AI/ML techniques for innovative projects.
+## 🌱 Currently Working On:
 
-## 💡 **Tech Stack:**
+- 🧠 **ChefMate** – An AI-powered Cooking Assistant using LLMs, PostgreSQL, and React.
+- 🔍 **Multimodal Fake News + Deepfake Detection System** – Combines text, image, and deepfake analysis.
+- 🛠️ Building tools with **LLMs, Sentence Transformers, and Retrieval Pipelines** for smart evaluation and search.
 
-* 🌐 Web Development: MERN Stack (MongoDB, Express, React, Node.js), TypeScript.
-* ⚡ Data Science & ML: Python, Scikit-Learn, TensorFlow, OpenCV.
-* 📊 Data Analysis: Pandas, NumPy, Jupyter Notebooks.
-* 💻 Other Tools: Git, GitHub, REST APIs, Linux.
+---
 
-## 📌 **Highlighted Projects:**
+## 🧠 Tech Stack:
 
-* ✍️ [VeriWrite - Handwriting Plagiarism Detection Tool](https://github.com/sidharthp-2004/VeriWrite)
-* 🌐 [MitsMarketPlace Backend](https://github.com/sidharthp-2004/MitsMarketPlace_backend)
-* 🤖 [AI Human Pose Estimation](https://github.com/sidharthp-2004/aicteinternship_humanpose_estimation)
+- 💻 **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), TypeScript, Tailwind CSS  
+- 🤖 **AI/ML & Data Science:** Python, Scikit-Learn, TensorFlow, OpenCV, Hugging Face  
+- 📊 **Data Analysis:** Pandas, NumPy, Jupyter Notebooks  
+- 🛠️ **Tools:** Git, GitHub, REST APIs, Linux, FastAPI, PostgreSQL
 
-## ⚡ **My GitHub Stats:**
+---
 
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharthp-2004\&show_icons=true\&theme=radical)
+## 🚀 Highlighted Projects:
 
-## 💬 **Let's Connect:**
+- ✍️ [**VeriWrite** – Handwriting Plagiarism Detection Tool](https://github.com/sidharthp-2004/VeriWrite)  
+  Detects plagiarism in handwritten documents using OCR and Jaccard Similarity.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sidharth-p-7b0097257/)
+- 🍳 [**ChefMate** – AI Cooking Assistant (Work in Progress)](https://github.com/sidharthp-2004/ChefMate)  
+  Recommends recipes, guides cooking steps, and rewrites dishes using LLMs.
 
+- 🤖 [**Auto-Evaluation Tool** – AI-based Grading System](https://github.com/sidharthp-2004/Auto-Answer-Grader)  
+  Uses LLMs + Sentence Transformers for smart answer evaluation and feedback.
+
+- 🌐 [**MitsMarketPlace**](https://github.com/sidharthp-2004/MitsMarketPlace)  
+  Marketplace platform built with Node.js and MongoDB for campus trades.
+
+- 🕺 [**AI Human Pose Estimation**](https://github.com/sidharthp-2004/aicteinternship_humanpose_estimation)  
+  ML-based pose estimation system developed for internship.
+
+---
+
+## 📈 GitHub Stats
+
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid-CodeX&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sidharth-p-7b0097257/)
+
+---
