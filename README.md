@@ -9,7 +9,7 @@ I'm passionate about building intelligent, scalable, and impactful tech products
 ## 🎯 Currently Focused On
 
 * **ChefMate:** Developing an **AI-powered Cooking Assistant** utilizing Large Language Models (LLMs), PostgreSQL, and React to transform culinary experiences.
-* **Continuous Learning:** Actively expanding my expertise in **DevOps methodologies** and **Advanced Backend Communication patterns** to build more resilient and scalable systems.
+* **Continuous Learning:** Actively doing **Data Structures & Algorithms (DSA)**, and delving deeper into **web development** and **AI concepts**.
 
 ---
 
