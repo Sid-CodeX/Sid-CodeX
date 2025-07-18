@@ -9,7 +9,7 @@ I'm passionate about building intelligent, scalable, and impactful tech products
 ## 🎯 Currently Focused On
 
 * **ChefMate:** Developing an **AI-powered Cooking Assistant** utilizing Large Language Models (LLMs), PostgreSQL, and React to transform culinary experiences.
-* **Continuous Learning:** Actively doing **Data Structures & Algorithms (DSA)**, and delving deeper into **web development** and **AI concepts**.
+* **Continuous Learning:** Actively doing **Data Structures & Algorithms (DSA)**, and diving deeper into **web development** and **AI concepts**.
 
 ---
 
@@ -49,9 +49,6 @@ I enjoy working across diverse technologies, leveraging the right tools to bring
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>&nbsp;
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
-    <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>&nbsp;
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>&nbsp;
-    <img src="https://img.shields.io/badge/OpenCV-%232196F3.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>&nbsp;
 </p>
 
 #### **Tools & Platforms:**
