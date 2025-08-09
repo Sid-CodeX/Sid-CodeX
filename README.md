@@ -6,14 +6,14 @@ I'm passionate about building intelligent, scalable, and impactful tech products
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
 * **ChefMate:** Developing an **AI-powered Cooking Assistant** utilizing Large Language Models (LLMs), PostgreSQL, and React to transform culinary experiences.
 * **Continuous Learning:** Actively doing **Data Structures & Algorithms (DSA)**, and diving deeper into **web development** and **AI concepts**.
 
 ---
 
-## 💻 My Tech Arsenal
+## My Tech Arsenal
 
 I enjoy working across diverse technologies, leveraging the right tools to bring innovative ideas to life.
 
@@ -60,7 +60,7 @@ I enjoy working across diverse technologies, leveraging the right tools to bring
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Here are some of my key projects that showcase my skills and problem-solving approach:
 
@@ -77,7 +77,7 @@ Here are some of my key projects that showcase my skills and problem-solving app
 
 ---
 
-## 📈 My GitHub Activity
+## My GitHub Activity
 
 <p align="center">
     <a href="https://github.com/Sid-CodeX">
@@ -91,7 +91,7 @@ Here are some of my key projects that showcase my skills and problem-solving app
 
 ---
 
-## ✉️ Let's Connect!
+## Let's Connect!
 
 I'm always eager to discuss new opportunities, potential collaborations, or simply share insights on technology. Feel free to reach out!
 
