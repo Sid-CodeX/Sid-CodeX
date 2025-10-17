@@ -1,43 +1,50 @@
 # Hey there, I'm Sidharth! 👋
 
-### **Software Engineer | Full-Stack & AI Specialist | CS Undergrad**
+### **Software Engineer | Full-Stack Developer | AI & ML Enthusiast**
 
-I'm driven by a mission to engineer **intelligent, scalable, and impactful tech solutions** that solve real-world challenges. I specialize in the **MERN Stack** and leverage **AI/ML** to build high-performance, full-stack systems—from developing LLM-powered applications to designing robust, production-ready APIs. I thrive on translating complex ideas into functional, real-world value.
+I'm driven by a mission to engineer **intelligent, scalable, and impactful tech solutions** that solve real-world challenges. I specialize in the **MERN Stack** and leverage **Applied AI/ML** to build high-performance, full-stack systems—from developing LLM-powered applications to designing robust, production-ready APIs. I thrive on translating complex ideas into functional, real-world value.
 
 ---
 
 ##  Key Achievements & Focus
 
 - **Algorithmic Excellence:** Solved **200+ Data Structures & Algorithms (DSA) problems** on LeetCode, demonstrating strong foundational problem-solving and algorithmic efficiency.
-- **Full-Stack Proficiency:** Proven expertise in the **MERN Stack** and building cloud-ready, scalable web applications.
-- **AI Integration:** Hands-on experience integrating **LLMs and Deep Learning** into high-impact systems (e.g., ChefMate, Auto-Evaluation Tool).
+- **Full-Stack Proficiency:** Proven expertise in the **MERN Stack** and building cloud-ready, scalable web applications (e.g., VeriWrite).
+- **AI/ML Application:** Hands-on experience integrating **LLMs, NLP, and Deep Learning** into high-impact systems (e.g., ChefMate).
 
 ### Currently Focused On
 
 - **Advanced Systems Design:** Deepening expertise in **MERN/Node.js architecture**, focusing on **backend scalability, API performance, and system design principles**.
-- **Next Project: Secure Whistleblowing Platform:** Designing a **Next-Gen AI-Powered Whistleblowing Platform**—anonymous, secure, and censorship-resistant. This build integrates privacy-preserving technologies and **LLM-based NLP** for intelligent, secure report handling.
-- **Upcoming Build:** Planning a **Multiplayer Board Game** (*Three Men’s Morris*) with real-time matchmaking, tournaments, and leaderboard features using modern web sockets.
+- **Upcoming Build:** Planning a **Multiplayer Board Game** (*Three Men’s Morris*) with real-time matchmaking, tournaments, and leaderboard features.
 
 ---
 
-## 🛠 Featured Projects (Showcasing Innovation & Technical Depth)
+##  Featured Projects (Showcasing Technical Depth)
 
-These projects highlight my ability to deliver innovative solutions across the full stack and AI spectrum:
+These projects highlight my ability to deliver innovative, high-performance solutions across the full stack and AI spectrum:
 
-### [**ChefMate** – AI-Powered Cooking Assistant](https://github.com/Sid-CodeX/ChefMate)
-> **LLM-Powered Full-Stack Application** utilizing **React, Node.js, and PostgreSQL**. ChefMate intelligently generates personalized recipes, guides cooking steps, and creatively rewrites dishes based on user-defined preferences by integrating a custom **Large Language Model (LLM)**.
+### 1. [**VeriWrite** – Full-Stack Plagiarism Detection Platform](https://github.com/Sid-CodeX/VeriWrite)
+> A robust **MERN Stack** platform designed to **ensure academic integrity** across multi-format submissions.
+>
+> * **High-Performance Engine:** Engineered a specialized plagiarism engine that achieved a **95% reduction in comparison overhead** using **MinHash and Locality-Sensitive Hashing (LSH)** for efficient detection across a large document corpus.
+> * **Multi-Format Input:** Implemented reliable content extraction from **PDFs, DOCX, and images** using **Azure OCR**.
+> * **Real-Time Web Matching:** Integrated the **SERP API** for dynamic content matching against vast online repositories.
+> * **Stack Highlights:** MERN, Azure OCR, MinHash/LSH, Jaccard-Overlap.
 
-### [**VeriWrite** – Handwriting Plagiarism Detection Tool](https://github.com/Sid-CodeX/VeriWrite)
-> A robust system to **ensure academic integrity** by detecting plagiarism in handwritten documents. The solution uses **OCR** (Microsoft Vision API) and **Jaccard Similarity** to provide a fair and accurate evaluation.
+### 2. [**ChefMate** – AI-Powered Cooking Assistant](https://github.com/Sid-CodeX/ChefMate)
+> A smart culinary assistant utilizing advanced **NLP** to create personalized, interactive cooking experiences.
+>
+> * **Personalized Recipe Generation:** Built an assistant that uses **NLP and LLM models** (OpenAI/Hugging Face) to generate recipes based on dietary filters, regional cuisines, and available ingredients.
+> * **Optimized & Robust:** Implemented **Redis caching** to reduce database queries, improving responsiveness, and containerized the application using **Docker** with a **FastAPI/PostgreSQL** backend.
+> * **Modern Practices:** Developed using **Behavior-Driven Development (BDD)** and integrated CI/CD for high code quality.
+> * **Stack Highlights:** React, FastAPI, PostgreSQL, Redis, OpenAI API, BDD, Docker.
 
-### [**Auto-Evaluation Tool** – AI-Based Grading System](https://github.com/Sid-CodeX/Auto-Answer-Grader)
-> An automated grading system powered by **LLMs** and **Sentence Transformers**, built to **streamline academic assessments**. It provides smart answer evaluation and insightful, structured feedback, reducing manual effort.
-
-### [**MitsMarketPlace**](https://github.com/Sid-CodeX/MitsMarketPlace)
-> A comprehensive **campus marketplace platform** built with **Node.js, Express, and MongoDB (MERN Stack)**, enabling students to easily buy, sell, or exchange items within a trusted college network.
-
-### [**AI Human Pose Estimation**](https://github.com/Sid-CodeX/Humanpose_Estimation)
-> A **deep learning-based** system for real-time human pose estimation, developed during my internship, using computer vision to analyze and interpret human motion patterns.
+### 3. **God’s Eye** – Next-Generation Whistleblowing Platform (Early Design Stage)
+> An architectural plan for a highly secure, AI-enhanced platform combining strong **anonymity** with intelligent report analysis.
+>
+> * **Ultimate Anonymity:** Designed to leverage **Tor-based access** and **end-to-end encryption** to protect whistleblowers from exposure.
+> * **AI-Driven Intelligence:** Integrates **NLP and anomaly detection** to transform incoming reports into actionable insights for investigators.
+> * **Secure & Accountable:** Features tamper-proof evidence handling, role-based access, and immutable audit logs to ensure accountability and transparency.
 
 ---
 
@@ -66,6 +73,7 @@ I love working across the stack — blending **software engineering**, **machine
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
 </p>
 
 #### **AI/ML & Data Science**
@@ -80,6 +88,7 @@ I love working across the stack — blending **software engineering**, **machine
 <p align="center">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge"/>&nbsp;
 </p>
 
